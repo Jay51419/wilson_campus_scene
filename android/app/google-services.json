@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "462469463000",
+    "project_id": "wilson-campus-scene",
+    "storage_bucket": "wilson-campus-scene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462469463000:android:eb6419220e56e1d668d0ad",
+        "android_client_info": {
+          "package_name": "com.example.wilson_campus_scene"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462469463000-lli0anta9e57e3k58l0rpbf282tjdq6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wilson_campus_scene",
+            "certificate_hash": "4260cb3b785e63dfd2795bfb3eaeda0d05411aa6"
+          }
+        },
+        {
+          "client_id": "462469463000-atbftvpp4ccqn7f2tn996g6kjvp9468b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCutQW08mQZDOieDQ7YrHdaAp_TAZc6Sqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462469463000-atbftvpp4ccqn7f2tn996g6kjvp9468b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462469463000-eq51t4p2umuqcjiapkovt4do58j4frr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wilsonCampusScene"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
